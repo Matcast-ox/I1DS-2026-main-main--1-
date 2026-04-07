@@ -159,6 +159,7 @@ for (let i = 0; i < 3; i++) {
       contador++;
     }
   }
+
 }
 
 console.log("Maiores que 10:", contador);
